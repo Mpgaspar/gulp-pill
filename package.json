@@ -1,0 +1,25 @@
+{
+  "name": "gulp-pill",
+  "version": "1.0.0",
+  "description": "A simple pill with Gulp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mpgaspar/gulp-pill.git"
+  },
+  "author": "Marcelo G4sp4r",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mpgaspar/gulp-pill/issues"
+  },
+  "homepage": "https://github.com/Mpgaspar/gulp-pill#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "gulp-cli": "^2.2.0"
+  }
+}
