@@ -17,7 +17,13 @@
   },
   "homepage": "https://github.com/Mpgaspar/gulp-pill#readme",
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-typescript": "^6.0.0-alpha.1",
+    "gulp-uglify": "^3.0.2",
+    "imagemin-optipng": "^7.1.0"
   },
   "dependencies": {
     "gulp-cli": "^2.2.0"
